@@ -643,6 +643,9 @@ transition: .5s;
 }
 }
 @media screen and (max-width: 950px) {
+  .toggle-nav{
+    padding: 140px 80px;
+  }
   .header{
     padding: 15px 40px 0;
   }
@@ -702,6 +705,12 @@ flex-wrap: wrap;
 
 
 @media screen and (max-width: 780px) {
+  .toggle-nav{
+    padding: 140px 40px;
+  }
+  .toggle-nav__link{
+    font-size: 24px;
+  }
 .about-img{
   display: none;
 }
