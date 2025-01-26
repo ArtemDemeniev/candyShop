@@ -30,6 +30,6 @@ var swiper = new Swiper(".swiper", {
             spaceBetween: 30,
         },
     },
-    
+
 });
 
